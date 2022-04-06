@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.15.4
 
 EXPOSE 80
 WORKDIR /usr/src/app
